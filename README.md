@@ -27,10 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rishabhyadav30/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rishabhyadav30/DSA/tree/master/0032-longest-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rishabhyadav30/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rishabhyadav30/DSA/tree/master/0032-longest-valid-parentheses) |
 ## Stack
 |  |
@@ -39,5 +41,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rishabhyadav30/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rishabhyadav30/DSA/tree/master/0032-longest-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/rishabhyadav30/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
