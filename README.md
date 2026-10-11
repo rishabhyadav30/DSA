@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/rishabhyadav30/DSA/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/rishabhyadav30/DSA/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/rishabhyadav30/DSA/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/rishabhyadav30/DSA/tree/master/0733-flood-fill) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/rishabhyadav30/DSA/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/rishabhyadav30/DSA/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/rishabhyadav30/DSA/tree/master/0210-course-schedule-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/rishabhyadav30/DSA/tree/master/0301-remove-invalid-parentheses) |
@@ -60,12 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/rishabhyadav30/DSA/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/rishabhyadav30/DSA/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/rishabhyadav30/DSA/tree/master/1020-number-of-enclaves) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rishabhyadav30/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/rishabhyadav30/DSA/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/rishabhyadav30/DSA/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/rishabhyadav30/DSA/tree/master/1020-number-of-enclaves) |
 ## Enumeration
@@ -75,5 +79,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/rishabhyadav30/DSA/tree/master/0130-surrounded-regions) |
 | [1020-number-of-enclaves](https://github.com/rishabhyadav30/DSA/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
