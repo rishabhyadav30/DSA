@@ -59,8 +59,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/rishabhyadav30/DSA/tree/master/0733-flood-fill) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/rishabhyadav30/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Matrix
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/rishabhyadav30/DSA/tree/master/0733-flood-fill) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/rishabhyadav30/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
