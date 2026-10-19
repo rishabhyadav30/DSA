@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/rishabhyadav30/DSA/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/rishabhyadav30/DSA/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/rishabhyadav30/DSA/tree/master/1020-number-of-enclaves) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/rishabhyadav30/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rishabhyadav30/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/rishabhyadav30/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rishabhyadav30/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -95,6 +96,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/rishabhyadav30/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/rishabhyadav30/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rishabhyadav30/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/rishabhyadav30/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
