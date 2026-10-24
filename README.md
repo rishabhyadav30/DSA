@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/rishabhyadav30/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rishabhyadav30/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/rishabhyadav30/DSA/tree/master/0301-remove-invalid-parentheses) |
+| [2409-count-days-spent-together](https://github.com/rishabhyadav30/DSA/tree/master/2409-count-days-spent-together) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rishabhyadav30/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+## Math
+|  |
+| ------- |
+| [2409-count-days-spent-together](https://github.com/rishabhyadav30/DSA/tree/master/2409-count-days-spent-together) |
 <!---LeetCode Topics End-->
