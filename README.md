@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/rishabhyadav30/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rishabhyadav30/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0198-house-robber](https://github.com/rishabhyadav30/DSA/tree/master/0198-house-robber) |
 ## Stack
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/rishabhyadav30/DSA/tree/master/0130-surrounded-regions) |
+| [0198-house-robber](https://github.com/rishabhyadav30/DSA/tree/master/0198-house-robber) |
 | [0733-flood-fill](https://github.com/rishabhyadav30/DSA/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/rishabhyadav30/DSA/tree/master/1020-number-of-enclaves) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rishabhyadav30/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
