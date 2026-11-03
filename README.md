@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/rishabhyadav30/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rishabhyadav30/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/rishabhyadav30/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/rishabhyadav30/DSA/tree/master/0198-house-robber) |
 ## Stack
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/rishabhyadav30/DSA/tree/master/0070-climbing-stairs) |
 | [2409-count-days-spent-together](https://github.com/rishabhyadav30/DSA/tree/master/2409-count-days-spent-together) |
 ## Kosaraju's Algorithm
 |  |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/rishabhyadav30/DSA/tree/master/0802-find-eventual-safe-states) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rishabhyadav30/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
